@@ -13,7 +13,8 @@ body{
      color: white;
 }
 .moto h1{ 
-margin-bottom: 0;}
+margin-bottom: 0;
+font-size: 16vh;}
 header{
     height: 100vh;
     background-image: url(study.jpg);
@@ -37,4 +38,5 @@ header{
     color: #fff;
     margin: 0 5px;
     border-radius: 5px;
+    font-size:3vh;
 }
